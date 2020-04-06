@@ -1,6 +1,6 @@
 # Figure 1 COVID-19 Chest X-ray Dataset Initiative
 
-**Note: The COVID-19 image data provided here are intended to be used for research purposes only, and we are working continuously to grow this dataset as new data becomes available. **\
+**Note: The COVID-19 image data provided here are intended to be used for research purposes only, and we are working continuously to grow this dataset as new data becomes available.**
 
 **Core COVID-Net team: Linda Wang, Alexander Wong, Zhong Qiu Lin, James Lee, Paul McInnis, Audrey Chung, Matt Ross (City of London), Blake VanBerlo (City of London)**\
 Vision and Image Processing Research Group, University of Waterloo, Canada\
