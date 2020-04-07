@@ -14,5 +14,5 @@ We are building this dataset as a part of the COVIDx dataset to enhance our mode
 
 Please see the main COVID-Net repo for details on data extraction and instructions for creating the full COVIDx dataset.
 
-If you would like to **contribute COVID-19 x-ray images**, please contact us at audrey@darwinai.ca and a28wong@uwaterloo.ca or alex@darwinai.ca. Lets all work together to stop the spread of COVID-19!
+If you would like to **contribute COVID-19 x-ray images**, please submit them via Figure 1 [here](https://figure1.typeform.com/to/lLrHwv). If you have any questions, please contact us at audrey@darwinai.ca and a28wong@uwaterloo.ca or alex@darwinai.ca. Lets all work together to stop the spread of COVID-19!
 
