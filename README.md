@@ -2,9 +2,20 @@
 
 **Note: The COVID-19 image data provided here are intended to be used for research purposes only, and we are working continuously to grow this dataset as new data becomes available.**
 
-**Core COVID-Net team: Linda Wang, Alexander Wong, Zhong Qiu Lin, James Lee, Paul McInnis, Audrey Chung, Matt Ross (City of London), Blake VanBerlo (City of London), Ashkan Ebadi (National Research Council Canada)**\
-Vision and Image Processing Research Group, University of Waterloo, Canada\
-DarwinAI Corp., Canada
+## Core COVID-Net Team
+* DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
+	* Linda Wang
+	* Alexander Wong
+	* Zhong Qiu Lin
+	* Paul McInnis
+	* Audrey Chung
+	* Hayden Gunraj, COVIDNet for CT: Coming soon.
+* Vision and Image Processing Research Group, University of Waterloo, Canada
+	* James Lee
+* Matt Ross and Blake VanBerlo (City of London), COVID-19 Chest X-Ray Model: https://github.com/aildnont/covid-cxr
+* Ashkan Ebadi (National Research Council Canada)
+* Kim-Ann Git (Selayang Hospital)
+* Abdul Al-Haimi
 
 We especially thank Figure 1 for their collaboration in compiling this medical data.
 
