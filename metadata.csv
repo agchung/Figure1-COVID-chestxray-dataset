@@ -40,3 +40,17 @@ COVID-00035,,,,COVID-19,,,,,X-ray,,labeled covid19
 COVID-00036,,,,COVID-19,,,,,X-ray,,labeled covid19
 COVID-00037,,,,COVID-19,,,,,X-ray,,labeled covid19
 COVID-00038,,,,COVID-19,,,,,X-ray,,labeled as covid19
+COVID-00039a,10,F,77,COVID-19,,,80,AP erect,X-ray,,"77F with a background notable of metastatic small bowel GIST on chemotherapy, HTN, thyroidectomy, cholecystectomy presented with 10 day Hx of intermittent fevers, non productive cough and increased SOB. PO2 8.8 on FiO2 0.85 on admission Admitted to ICU and Intubated Lung protective ventilation commenced but desaturated to 80% following RIJ CVC. Decompressed by the bedside and a CXR was performed that revealed large #pneumothorax. Chest drain inserted with pneumothorax resolved gradually. 1 day after admission the admitting diagnosis was confirmed #COVID-19"
+COVID-00039b,10,F,77,COVID-19,,,80,AP erect,X-ray,,
+COVID-00039c,10,F,77,COVID-19,,,80,AP erect,X-ray,,
+COVID-00040a,7,,early 40s,No finding,,,,,X-ray,,Normal image of patient is one acquired a year earlier.
+COVID-00040b,7,,early 40s,,,,,,X-ray,,Patient in early 40s with a week of fever and dry cough. Patient discharged.
+COVID-00041,7,,mid 50s,,,,,AP erect,X-ray,,"Patient in mid 50s with similar history (a week of fever and dry cough) but unlike the former, has oxygen requirement. Patient admitted for O2 therapy."
+COVID-00042,14,F,45,,,,52,AP erect,X-ray,,"45 year old female presented to A&E with the following symptoms - Shortness of breath - Productive cough last 2 weeks - Weight loss - Fever Background history - HIV positive on 2nd line ARVs - Unknown CD4 and viral count - No known covid contacts On examination - Vitals: BP 143/92, HR 123, Sats: 52% on RA and 94% on polymask O2, RR- 38 - General: increased BMI, half-and half nails, generalised lymphadenopathy - Resp: mild alar flaring, SCR, scattered crackles. - others systems: nothing of note"
+COVID-00043a,,,,COVID-19,,,,,X-ray,,"This patient was admitted to the ICU with COVID pneumonia a few weeks ago and due to a very high D-dimer level, empiric anticoagulation was initiated."
+COVID-00043b,,,,COVID-19,,,,,X-ray,,"The night prior to extubation, the patients oxygen saturation plummeted, fresh blood appeared in the ventilator tubing, and the second X-ray was obtained."
+COVID-00044,,,,,,,,,X-ray,,primary tuberculosis infection
+COVID-00045,,,,COVID-19,,,,,X-ray,,"VP, XRAY"
+COVID-00046,,,,COVID-19,,,,,X-ray,,Covid19 confirmed
+COVID-00047,,,,,,,,,X-ray,,
+COVID-00048,,,,COVID-19,,,,AP,X-ray,,
